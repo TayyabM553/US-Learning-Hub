@@ -1,0 +1,49 @@
+.d1{
+    height: 470px;
+    width: 100%;
+    background-color: darkslategray;
+    padding-top: 60px;
+    border-radius: 4px;
+}
+.d1>img{
+    height: 400px;
+    width: 400px;
+    border-radius: 400px;
+    float: left;
+    margin-left: 120px;
+}
+.d1>h1{
+    font-size: 80px;
+    margin-left: 570px;
+}
+.d1>p{
+    font-size: 30px;
+    margin-left: 570px;
+    margin-top: -20px;
+}
+hr{
+    width: 1000px;
+}
+.d2{
+    height: 470px;
+    width: 100%;
+    background-color: darkslategray;
+    padding-top: 60px;
+    border-radius: 4px;
+}
+.d2>img{
+    height: 400px;
+    width: 400px;
+    border-radius: 400px;
+    float: left;
+    margin-left: 120px;
+}
+.d2>h1{
+    font-size: 80px;
+    margin-left: 570px;
+}
+.d2>p{
+    font-size: 30px;
+    margin-left: 570px;
+    margin-top: -20px;
+}
